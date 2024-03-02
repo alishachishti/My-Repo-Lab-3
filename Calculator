@@ -1,2 +1,6 @@
 cout<"Alisha Pervaiz Chishti";
 cout<<"23-st-022";
+cout<<"Sum of two numbers: "<<a+b;
+cout<<"Subtrcting two numbers : "<<a-b;
+cout<<"Product of two numbers : "<<a*b;
+cout<<"Dividing two numbers : "<<a/b;
